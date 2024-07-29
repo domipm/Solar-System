@@ -4,7 +4,3 @@ Computational simulation of the orbits of the planets in the solar system using 
 <p align="center">
   <img src="https://i.imgur.com/tDwEYXO.gif" height="384" width="512" >
 </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/elzqkLL.gif" height="384" width="512" >
-</p>
